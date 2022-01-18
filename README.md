@@ -13,8 +13,14 @@ Escolha se esse repositório será ***"publico ou privado"***.<p>
   <div>git remote add origin https://github.com/ <b><i>(ele dará o seu endereço http)</b></i>
 <div>git push -u origin master <p>
   
-  Se na criação do repositório apresentar um erro de já existe no Git, porém ainda não conseguiu upar, tente utilizar o codigo <b><i>git remote set-url origin http://github.com/ (seu endereço http do repositório)após seguir com:</b></i>
+  Se na criação do repositório apresentar um erro de já existe no Git exemplo error: remote origin already exists, porém ainda não conseguiu upar, tente utilizar o codigo <b><i>git remote set-url origin http://github.com/ (seu endereço http do repositório)após seguir com:</b></i>
 <div>git branch -M master
 <div>git push -u origin master
+  
+  <p>(i>Resolvi trazer esse erro, pois ocorria muito comigo, e nunca sabia o que fazer quando ocorria.</i>
+  <p>
+    <b> Espero ter ajudado!!!
+  
+  
   
   
