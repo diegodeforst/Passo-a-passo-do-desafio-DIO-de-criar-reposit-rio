@@ -5,10 +5,10 @@ Primeiro vamos ver o passo a passo de como criar o seu repositório pelo GitHub.
 Escolha se esse repositório será ***"publico ou privado"***.<p>
   Clique em ***"Create repository"***<p>
     O próprio <b>GitHub</b> te dará os códigos para fazer no <b>Git</b>, sendo:
-<b>echo "# Curriculo_Site" >> README.md
-<b>git init
-<b>git add README.md
-<b>git commit -m "first commit"
-<b>git branch -M master
-<b>git remote add origin https://github.com/diegodeforst/Curriculo_Site.git
-<b>git push -u origin master
+<div>echo "# Curriculo_Site" >> README.md
+<div>git init
+<div>git add README.md
+<div>git commit -m "first commit"
+<div>git branch -M master
+  <div>git remote add origin https://github.com/ <b>(ele dará o seu site http)</b>
+<div>git push -u origin master
