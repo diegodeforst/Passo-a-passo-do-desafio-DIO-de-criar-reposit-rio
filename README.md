@@ -4,7 +4,7 @@ Primeiro vamos ver o passo a passo de como criar o seu repositório pelo GitHub.
     Em <a href="https://uploaddeimagens.com.br/images/003/636/449/original/repository.jpg?1642540574">Creat a New Repository:</a><p><img src="https://uploaddeimagens.com.br/images/003/636/449/original/repository.jpg?1642540574"><p> ***"Repository Name"***, escolha o nome que terá o seu repositório.<p>
 Escolha se esse repositório será ***"publico ou privado"***.<p>
   Clique em ***"Create repository"***<p>
-    O próprio <b>GitHub</b> te dará os códigos para fazer no <b><i>Git</b></i>, sendo:
+    O próprio <b><i>GitHub</b></i> te dará os comandos para fazer no <b><i>Git</b></i>, sendo:
 <div>echo "# Curriculo_Site" >> README.md
 <div>git init
 <div>git add README.md
