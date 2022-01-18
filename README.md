@@ -19,7 +19,7 @@ Escolha se esse repositório será ***"publico ou privado"***.<p>
   
   <p><i>Resolvi trazer esse erro, pois ocorria muito comigo, e nunca sabia o que fazer quando ocorria.</i>
   <p>
-    <i> Observação: Verifique se está executando o seu Git dentro da pasta que vai upar os arquivos</i>
+    <i> Observação: Verifique se está executou o seu Git dentro da pasta que vai upar os arquivos</i>
     <p>
     <b> Espero ter ajudado!!!
   
