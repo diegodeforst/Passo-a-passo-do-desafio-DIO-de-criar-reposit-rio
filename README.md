@@ -17,7 +17,7 @@ Escolha se esse repositório será ***"publico ou privado"***.<p>
 <div>git branch -M master
 <div>git push -u origin master
   
-  <p>(i>Resolvi trazer esse erro, pois ocorria muito comigo, e nunca sabia o que fazer quando ocorria.</i>
+  <p><i>Resolvi trazer esse erro, pois ocorria muito comigo, e nunca sabia o que fazer quando ocorria.</i>
   <p>
     <b> Espero ter ajudado!!!
   
