@@ -9,7 +9,7 @@ Escolha se esse repositório será ***"publico ou privado"***.<p>
 <div>git init
 <div>git add README.md
 <div>git commit -m "first commit"
-  <div>git add "arquivo que vai add, ou <b>*</b> para tudo"
+  <div>git add "arquivo que vai add" ou "<b>*</b> para todos os arquivos"
 <div>git branch -M master
   <div>git remote add origin https://github.com/ <b><i>(ele dará o seu endereço http)</b></i>
 <div>git push -u origin master <p>
